@@ -50,6 +50,7 @@ body {
     -0.2rem 0.1rem 1rem #ff65bd, 0.2rem 0.1rem 1rem #ff65bd,
     0 -0.5rem 2rem #ff2483, 0 0.5rem 3rem #ff2483;
   animation: shine 2s forwards, flicker 3s infinite;
+  
 }
 
 @keyframes blink {
@@ -236,7 +237,7 @@ img{
   height: 100px;
   margin: 20px;
   border-radius: 50%;
-  border: 2px solid black;
+  border: 5px solid black;
   transition: transform 0.5s;
 }
 
